@@ -49,7 +49,7 @@ News
 We reveal the fundamental shortcomings of existing learning-based closure models and propose a new learning framework,
 achieving both tremendous speedup and higher accuracy.
 - **May 2024** We extend Forward Laplacian to accomodate general high-order differential operators.
-The [paper](https://arxiv.org/pdf/2402.09730) is accepted by <em style="color: #8B4513;">ICLR 2024 workshop on AI4DifferentialEquations</em>.
+The [paper](https://arxiv.org/pdf/2402.09730) appears at <em style="color: #8B4513;">ICLR 2024 workshop on AI4DifferentialEquations</em>.
 - **Feb. 2024** Our [Forward Laplacian paper](https://www.nature.com/articles/s42256-024-00794-x) is accepted by <em style="color: #8B4513;">Nature Machine Intelligence</em>.
 We achieves more than 20x speedup on ground-state energy computing (QMC) for qunatum systems with $$\sim10^2$$ electrons.
 
