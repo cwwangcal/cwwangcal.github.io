@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks1/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -25,3 +25,6 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
