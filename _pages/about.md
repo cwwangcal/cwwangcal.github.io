@@ -45,11 +45,11 @@ News
 ======
 - **Aug. 2024** Give a talk on data-driven closure models at [IAIFI summer workshop](https://iaifi.org/summer-workshop).
 <!-- - **Jul. 2024** Giving a talk at DDCR MURI Meeting. -->
-- **Aug. 2024** Our [new work](https://arxiv.org/abs/2408.05177) on closure modeling is released on arxiv. 
+- **Aug. 2024** Our [new work](https://arxiv.org/pdf/2408.05177) on closure modeling is released on arxiv. 
 We reveal the fundamental shortcomings of existing learning-based closure models and propose a new learning framework,
 achieving both tremendous speedup and higher accuracy.
 - **May 2024** We extend Forward Laplacian to accomodate general high-order differential operators.
-The [paper](https://arxiv.org/abs/2402.09730) is accepted by <em style="color: #8B4513;">ICLR 2024 workshop on AI4DifferentialEquations</em>.
+The [paper](https://arxiv.org/pdf/2402.09730) is accepted by <em style="color: #8B4513;">ICLR 2024 workshop on AI4DifferentialEquations</em>.
 - **Feb. 2024** Our [Forward Laplacian paper](https://www.nature.com/articles/s42256-024-00794-x) is accepted by <em style="color: #8B4513;">Nature Machine Intelligence</em>.
 We achieves more than 20x speedup on ground-state energy computing (QMC) for qunatum systems with $$\sim10^2$$ electrons.
 
@@ -62,7 +62,7 @@ Selected Recent Works
     <img src="/images/papers/closure.png" alt="Publication Image" style="width: 500px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <h3><a href="https://arxiv.org/abs/2408.05177" target="_blank">Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators</a></h3>
+    <h3><a href="https://arxiv.org/pdf/2408.05177" target="_blank">Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators</a></h3>
     <span style="font-size: 85%;"><strong>Chuwei Wang</strong>, Julius Berner, Zongyi Li, Di Zhou, Jiayun Wang, Jane Bae, Anima Anandkumar</span><br>
     <span style="font-size: 85%;"><em>Preprint</em></span><br>
     <!-- <span style="font-size: 80%;">We introduce a novel neural network parameterization that induces low-rank simplicity bias and enhances semantic feature learning in generative representation learning frameworks...</span> -->
@@ -80,7 +80,7 @@ Selected Recent Works
     <img src="/images/papers/FL_mechanism.png" alt="Publication Image" style="width: 500px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <h3><a href="https://arxiv.org/abs/2402.09730" target="_blank">
+    <h3><a href="https://arxiv.org/pdf/2402.09730" target="_blank">
     DOF: Accelerating High-order Differential Operators with Forward Propagation</a></h3>
     <span style="font-size: 85%;">Ruichen Li*, <strong>Chuwei Wang*</strong>, Haotian Ye*, Di He, Liwei Wang</span><br>
     <span style="font-size: 85%;"><em>ICLR 2024 workshop on AI4DifferentialEquations</em></span><br>
@@ -92,7 +92,7 @@ Selected Recent Works
     <img src="/images/papers/FL_CH2.png" alt="Publication Image" style="width: 500px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <h3><a href="https://arxiv.org/abs/2307.08214" target="_blank">
+    <h3><a href="https://arxiv.org/pdf/2307.08214" target="_blank">
     A computational framework for neural network-based variational Monte Carlo with Forward Laplacian</a></h3>
     <span style="font-size: 85%;">Ruichen Li*, Haotian Ye*, Du Jiang, Xuelan Wen, <strong>Chuwei Wang</strong>, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang</span><br>
     <span style="font-size: 85%;"><em>Nature Machine Intelligence 2024</em></span><br>
@@ -104,7 +104,7 @@ Selected Recent Works
     <img src="/images/papers/linf_pinn.png" alt="Publication Image" style="width: 500px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <h3><a href="https://arxiv.org/abs/2206.02016" target="_blank">
+    <h3><a href="https://arxiv.org/pdf/2206.02016" target="_blank">
     Is L^2 Physics-Informed Loss Always Suitable for Training Physics-Informed Neural Network?</a></h3>
     <span style="font-size: 80%;"><strong>Chuwei Wang*</strong>, Shanda Li*, Di He, Liwei Wang</span><br>
     <span style="font-size: 80%;"><em>NeurIPS 2022</em></span><br>
