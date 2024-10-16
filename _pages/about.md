@@ -142,6 +142,6 @@ Selected Awards
 - **Jun. 2023** Peking University Excellent Graduate.
 - **Aug. 2022** Bronze Medal (ranked No. 6 in total), S.T. Yau College Student Mathematics Competition, analysis and partial differential equations individual.
 - **May 2021** Elite undergraduate training program of Applied Mathematics and Statistics.
-- **Dec. 2020** First Prize, Cheinese National College Student Physics Competition
-- **Dec. 2020** First Prize (ranked No. 14 in total), Cheinese National College Student Mathematics Competition
+- **Dec. 2020** First Prize, Chinese National College Student Physics Competition
+- **Dec. 2020** First Prize (ranked No. 14 in total), Chinese National College Student Mathematics Competition
 
