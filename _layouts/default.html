@@ -8,8 +8,18 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+    <!-- Google Analytics tracking code -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8QR83CBQV"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-M8QR83CBQV');
+    </script>
+    <!-- End of Google Analytics code -->
     {% include head/custom.html %}
   </head>
+
 
   <body>
 
