@@ -43,7 +43,7 @@ If you are interested in my research, please feel free to contact me!
 
 News
 ======
-- **Nov. 2024** Awarded as Top Reviewers of NeurIPS 2024 (8.57%, 1300 of 15160 reviewers).
+- **Nov. 2024** Awarded as Top Reviewer of NeurIPS 2024 (8.57%, 1300 of 15160 reviewers).
 - **Aug. 2024** Give a talk on data-driven closure models at [IAIFI summer workshop](https://iaifi.org/summer-workshop).
 <!-- - **Jul. 2024** Giving a talk at DDCR MURI Meeting. -->
 - **Aug. 2024** Our [new work](https://arxiv.org/pdf/2408.05177) on closure modeling is released on arxiv. 
@@ -140,7 +140,7 @@ Services
 
 Selected Awards
 ======
-- **Nov. 2024** Top Reviewers of NeurIPS 2024 (8.57%, 1300 of 15160 reviewers).
+- **Nov. 2024** Top Reviewer of NeurIPS 2024 (8.57%, 1300 of 15160 reviewers).
 - **Jun. 2023** Peking University Excellent Graduate.
 - **Aug. 2022** Bronze Medal (ranked No. 6 in total), S.T. Yau College Student Mathematics Competition, analysis and partial differential equations individual.
 - **May 2021** Elite undergraduate training program of Applied Mathematics and Statistics.
