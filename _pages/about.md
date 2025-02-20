@@ -43,6 +43,7 @@ If you are interested in my research, please feel free to contact me!
 
 News
 ======
+- **Feb. 2025** Give a talk at [the Alan Turing Institute](https://www.turing.ac.uk/events/phi-ml-meets-engineering-beyond-closure-models-learning-chaotic-systems-physics-informed).
 - **Nov. 2024** Awarded as Top Reviewer of NeurIPS 2024.
 - **Aug. 2024** Give a talk on data-driven closure models at [IAIFI summer workshop](https://iaifi.org/summer-workshop).
 <!-- - **Jul. 2024** Giving a talk at DDCR MURI Meeting. -->
