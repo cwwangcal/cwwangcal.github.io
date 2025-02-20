@@ -7,7 +7,7 @@ author_profile: true
 
 - **Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators** 
   [\[Paper\]](https://arxiv.org/pdf/2408.05177)
-  - Phi-ML meets Engineering seminar series, the Alan Turing Institute, 2025.2 [\[Slides\]](/files/talks/pino_closure_ATI.pdf)
+  - Phi-ML meets Engineering seminar series, Alan Turing Institute, 2025.2 [\[Slides\]](/files/talks/pino_closure_ATI.pdf)
   - IAIFI Summer Workshop, MIT, 2024.8 [\[Slides\]](/files/talks/closure_iaifi.pdf)
   - DDCR MURI Meeting, Caltech, 2024.7 [\[Slides\]](/files/talks/closure_muri.pdf)
 
