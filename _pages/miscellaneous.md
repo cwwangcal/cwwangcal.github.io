@@ -46,4 +46,4 @@ Having meals consists of the following sub-tasks:
 
 where 2-4 dominate the time cost.
 
-With batch pre-processing of the ingredients and parallelization of atomic operations (defrosting, cutting, heating, cooling, eating, washing, and walking), I have achieved about **5x speedup** on having meals, compared with the straightforward method I adopted the first time I cooked. My current personal best record is **16 minutes and 55 seconds**.
+With batch pre-processing of the ingredients and parallelization of atomic operations (defrosting, cutting, heating, cooling, eating, washing, and walking), I have achieved about **5x speedup** on having meals, compared with the straightforward method I adopted the first time I cooked. My current personal best record is **16 minutes and 42 seconds**.
