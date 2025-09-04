@@ -15,7 +15,7 @@ redirect_to: /404.html
 ---
 
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -69,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
