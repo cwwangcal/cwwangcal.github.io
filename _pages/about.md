@@ -24,7 +24,7 @@ fascinated with infinite-dimensional objects.
 <ul style="line-height: 0.6;">  <!-- modify 1.2 to change linespacing-->
   <li>Operator learning.</li>
   <li>Application of deep learning in physical sciences.</li>
-  <li>Closure modeling (a.k.a. coarse-grained modeling, reduce order modeling, etc).</li>
+  <li>Closure modeling (a.k.a. coarse graining, reduce order modeling, etc).</li>
   <li>Sampling and optimal transport.</li>
 </ul>
 
@@ -136,6 +136,7 @@ The m -->
 Services
 ======
 - Reviewer of JMLR, Nature Machine Intelligence (NMI), NeurIPS, ICLR, ICML.
+- Area Chair of AI+Science Workshop, NeurIPS 2025.
 - Organizing Committee member of [Keller Colloquium](https://www.cms.caltech.edu/news-events/keller-colloquium).
 
 
