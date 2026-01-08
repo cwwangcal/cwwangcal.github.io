@@ -58,6 +58,17 @@ We achieves more than 20x speedup on ground-state energy computing (QMC) for qun
 
 Selected Recent Works
 ======
+<div style="display: flex; align-items: center; margin-bottom: 2px;">
+  <div style="flex: 0 0 250px; padding-right: 20px;">
+    <img src="/images/papers/bh_wkshp.png" alt="Publication Image" style="width: 500px; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <h3><a href="https://arxiv.org/pdf/2512.01576" target="_blank">
+    From Black Hole to Galaxy: Neural Operator Framework for Accretion and Feedback Dynamics</a></h3>
+    <span style="font-size: 85%;">Nihaal Bhojwani*, <strong>Chuwei Wang*</strong>, Hai-Yang Wang*, Chang Sun, Elias Most, Anima Anandkumar</span><br>
+    <span style="font-size: 85%;"><em>NeurIPS 2025 workshop on ML for Physical Sciences</em></span><br>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 2px;">
   <div style="flex: 0 0 250px; padding-right: 20px;">
