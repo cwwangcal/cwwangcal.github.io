@@ -55,7 +55,6 @@ The [paper](https://arxiv.org/pdf/2402.09730) appears at <em style="color: #8B45
 - **Feb. 2024** Our [Forward Laplacian paper](https://www.nature.com/articles/s42256-024-00794-x) is accepted by <em style="color: #8B4513;">Nature Machine Intelligence</em>.
 We achieves more than 20x speedup on ground-state energy computing (QMC) for qunatum systems with $$\sim10^2$$ electrons.
 
-
 Selected Recent Works
 ======
 <div style="display: flex; align-items: center; margin-bottom: 2px;">
